@@ -16,6 +16,7 @@
             "outputPath": "dist/assignment1",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref": "/angular",
             "polyfills": [
               "zone.js"
             ],
