@@ -1,0 +1,23 @@
+.home{
+background-color: #5CBD9D;
+padding: 30px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+i {
+    color: white;
+    
+    
+}
+.line{
+    height: 4px;
+    background-color: white;
+    width: 80px;
+    display: inline-block;
+
+}

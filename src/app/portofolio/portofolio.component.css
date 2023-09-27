@@ -1,0 +1,31 @@
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #2C3E50;
+    line-height: 48px;
+    text-transform: uppercase;
+    text-align: center;
+}
+i{
+    color:#2C3E50;
+    
+    
+}
+.line{
+    height: 4px;
+    background-color: #2C3E50;
+    width: 80px;
+    display: inline-block;
+
+}
+.overlay{
+background-color: rgba(92, 189, 157,.8);
+ transition: .6s opacity;
+ opacity: 0;
+}
+.col-md-4:hover .overlay{
+    opacity: 1;
+}
+.overlay i{
+font-size: 70px;
+}

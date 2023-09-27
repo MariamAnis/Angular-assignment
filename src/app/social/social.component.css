@@ -1,0 +1,19 @@
+.social{
+background-color: rgba(44, 62, 80,0.93);
+}
+.head{
+    font-size: 28px;
+    font-weight: 500;
+   text-transform: uppercase;
+   text-align: center;
+}
+span{
+    border: 2px solid white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding-top: 6px;
+}
+span i {
+    font-size: 20px;
+}
